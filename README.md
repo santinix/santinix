@@ -9,4 +9,4 @@
 
 - **E-mail:** santiniferreirac@gmail.com
 - **LinkedIn:** [Seu Perfil](https://www.linkedin.com/in/seu-usuario)
-- **GitHub:** [GitHub](https://github.com/santinix)
+- **GitHub:** [santinix](https://github.com/santinix)
